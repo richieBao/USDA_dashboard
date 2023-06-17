@@ -1,0 +1,7 @@
+pandas
+sqlalchemy
+pyodbc
+dash
+dash_bootstrap_components
+dash_mantine_components
+openpyxl
